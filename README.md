@@ -22,5 +22,7 @@ This repository contains an implementation of a fish detector in an unconstraint
 # Roadmap
 
 # Authors and acknowledgment
+Casper Thuis
+
 
 # License
